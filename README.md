@@ -1,2 +1,5 @@
 # Form-with-HTML-CSS-and-PHP
- Personal skills presentation Form
+
+![Alt text](/img/form.png?raw=true "Index")
+ <br>
+ # Personal skills presentation Form
