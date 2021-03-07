@@ -2,4 +2,6 @@
 
 ![Alt text](/img/form.png?raw=true "Index")
  <br>
- # Personal skills presentation Form
+ # Personal skills presentation Form.
+ # Technologies used in development:
+HTML  CSS   PHP   MySQL
